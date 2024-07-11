@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laxman Sharma</h1>
-<h3 align="center">Aspiring Django Backend Developer with a Passion for Clean Code. Eager to Learn and Contribute to Dynamic Web Projects. Committed to Building Efficient and Scalable Backend Solutions</h3>
+<h3 align="center">I'm an aspiring Django backend developer with a passion for clean code and building efficient, scalable backend solutions. I am eager to learn and contribute to dynamic web projects, and I'm particularly interested in web scraping using Selenium.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmansharma1811&label=Profile%20views&color=0e75b6&style=flat" alt="laxmansharma1811" /> </p>
 
